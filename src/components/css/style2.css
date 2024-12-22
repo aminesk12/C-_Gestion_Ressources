@@ -1,0 +1,59 @@
+/* style.css */
+
+.container {
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+  
+  .card {
+    border-left: 4px solid #007bff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .table thead th {
+    background-color: #f8f9fa;
+    color: #144272;
+    border-bottom: 2px solid #dee2e6;
+  }
+  
+  .table tbody td {
+    vertical-align: middle;
+  }
+  
+  .text-success {
+    color: #28a745;
+  }
+  
+  .text-failed {
+    color: #dc3545;
+  }
+  
+  .btn-group {
+    display: flex;
+    gap: 10px;
+  }
+  
+  input[type="submit"] {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"].btn-primary {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  input[type="submit"].btn-danger {
+    background-color: #dc3545;
+    color: white;
+  }
+  

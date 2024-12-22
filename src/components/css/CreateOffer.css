@@ -1,0 +1,32 @@
+.create-offre-container {
+    margin-top: 50px;
+  }
+  
+  .create-offre-container h2 {
+    color: #144272;
+  }
+  
+  .create-offre-container .form-group {
+    margin-bottom: 1.5rem;
+  }
+  
+  .create-offre-container .btn-primary {
+    background-color: #144272;
+    border-color: #144272;
+  }
+  
+  .create-offre-container .btn-primary:hover {
+    background-color: #0d2a5b;
+    border-color: #0d2a5b;
+  }
+  
+  .create-offre-container .btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+  }
+  
+  .create-offre-container .btn-secondary:hover {
+    background-color: #565e64;
+    border-color: #565e64;
+  }
+  
